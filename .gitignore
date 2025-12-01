@@ -1,0 +1,30 @@
+# --- Unity generated folders (do NOT commit) ---
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Burst / backup folders (from your project)
+MR_BurstDebugInformation_DoNotShip/
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+
+# --- IDE / Visual Studio files ---
+.vs/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# --- Android / other build outputs ---
+*.apk
+*.aab
+*.unitypackage
